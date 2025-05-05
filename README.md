@@ -1,4 +1,4 @@
-# Music Therapy Project
+# Music Therapy
 
 This repository contains a data analysis project focused on exploring the relationship between music listening habits and mental health. The project uses survey data to investigate how different music genres, listening patterns, and preferences correlate with anxiety, depression, insomnia, and other mental health indicators.
 
